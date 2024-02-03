@@ -23,38 +23,6 @@ Here's a brief overview of how TOPSIS works:
 
 TOPSIS is widely used in various fields such as business, engineering, and environmental studies when there are multiple criteria to consider in decision-making processes. It provides a systematic and quantitative way to analyze and compare alternatives, taking into account multiple criteria simultaneously.
 
-# TEXT SENTENCE SIMILARITY:-
-
-![bJMue](https://github.com/Drishti-17/sentence_similarity_using_topsis/assets/91721425/dcc39252-2039-4da4-97e9-0d45117671d4)
-
-
-Text sentence similarity refers to the measurement of how similar two or more sentences are in terms of their meaning, content, or structure. This is a crucial aspect in natural language processing (NLP) and information retrieval, as it helps systems understand and quantify the similarity between textual content.
-
-There are various methods and techniques for assessing sentence similarity, and they can be broadly categorized into:
-
-**Lexical Similarity:**
-
-1. Word Overlap: Measures the similarity based on the common words between sentences.
-2. Jaccard Similarity: Calculates the similarity as the intersection divided by the union of the words in the sentences.
-   
-**Semantic Similarity:**
-
-1. Word Embeddings: Utilizes word embeddings (such as Word2Vec, GloVe, or fastText) to represent words in a continuous vector space. Sentence similarity is then computed based on the similarity of the word embeddings.
-2. Sentence Embeddings: Represents entire sentences as vectors, capturing their semantic meaning. Methods like Universal Sentence Encoder or BERT embeddings fall into this category.
-   
-**Syntactic Similarity:**
-
-1. Tree Kernels: Analyzes the sentence structure using parse trees to measure similarity.
-2. Dependency Parsing: Examines the relationships and dependencies between words in sentences.
-   
-**Combination of Approaches:**
-Some methods combine both lexical and semantic features to provide a more comprehensive similarity measure.
-
-Several similarity metrics, such as cosine similarity, Euclidean distance, or Pearson correlation, can be applied to quantify the degree of similarity between sentences.
-
-The choice of method depends on the specific requirements of the application. For instance, in information retrieval, you might want to find documents or sentences that are semantically similar to a given query. In machine learning tasks like text classification or clustering, sentence similarity can also be a useful feature.
-
-In summary, text sentence similarity plays a crucial role in various NLP applications, aiding in tasks such as duplicate detection, information retrieval, summarization, and question-answering systems.
 
 # METHODOLOGY:-
 
@@ -82,3 +50,22 @@ In summary, text sentence similarity plays a crucial role in various NLP applica
 1. Displays the ranked models and their TOPSIS scores in a table.
 2. Generates a bar chart to visualize the TOPSIS scores.
 3. Creates a table (using PrettyTable) summarizing the cosine similarity, additional criterion, and TOPSIS score for each model.
+
+# Models used
+1. BERT
+2. GPT-3
+3. USE
+4. XLNet
+
+# Key Findings
+<img width="375" alt="image" src="https://github.com/Drishti-17/text_sentence_similarity_using_topsis/assets/91721425/74777a60-31cf-4d6c-afc8-f82ca20d2c4d">
+
+
+# Final Result
+<img width="228" alt="image" src="https://github.com/Drishti-17/text_sentence_similarity_using_topsis/assets/91721425/85f06383-cca8-4842-a77f-205aff71726b">
+
+
+# Visual Insights 
+<img width="594" alt="image" src="https://github.com/Drishti-17/text_sentence_similarity_using_topsis/assets/91721425/f04180d2-20c9-445f-9dcb-60e63914b034">
+
+
