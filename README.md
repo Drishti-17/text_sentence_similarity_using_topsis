@@ -58,12 +58,10 @@ TOPSIS is widely used in various fields such as business, engineering, and envir
 4. XLNet
 
 # Key Findings
-<img width="375" alt="image" src="https://github.com/Drishti-17/text_sentence_similarity_using_topsis/assets/91721425/74777a60-31cf-4d6c-afc8-f82ca20d2c4d">
-
+<img width="675" alt="image" src="https://github.com/Drishti-17/text_sentence_similarity_using_topsis/assets/91721425/2ce24708-1a7f-43cf-b732-ed7507c623c9">
 
 # Final Result
-<img width="228" alt="image" src="https://github.com/Drishti-17/text_sentence_similarity_using_topsis/assets/91721425/85f06383-cca8-4842-a77f-205aff71726b">
-
+<img width="492" alt="image" src="https://github.com/Drishti-17/text_sentence_similarity_using_topsis/assets/91721425/a700af2c-7132-4ccd-9f1c-7a93632810aa">
 
 # Visual Insights 
 <img width="594" alt="image" src="https://github.com/Drishti-17/text_sentence_similarity_using_topsis/assets/91721425/f04180d2-20c9-445f-9dcb-60e63914b034">
